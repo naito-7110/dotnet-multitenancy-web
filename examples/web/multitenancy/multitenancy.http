@@ -1,0 +1,6 @@
+@multitenancy_HostAddress = http://localhost:5250
+
+GET {{multitenancy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
